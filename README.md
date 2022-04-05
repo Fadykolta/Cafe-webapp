@@ -51,19 +51,9 @@ You can add your own cafetria products, users and admins to database, from that 
 
 ---
 
-## Contributors
+## Thanks for the Contributors
 
-- **[Alaa Gamal](https://github.com/alaafat7albab)**
 
-- **[Leila Tariq](https://github.com/leila672)**
-
-- **[Hagar Ayman](https://github.com/HagarFahmy)**
-
-- **[Mohamed Mohy](https://github.com/Mohy-dev)**
-
-- **[Mohamed Farid](https://github.com/mohamedfarid14)**
-
-- **[Yosra Hashem](https://github.com/yosra-hashem)**
 
 <p align="center">
 <img src="https://media0.giphy.com/media/mBLYrKaZJACmtum22X/200.gif" /></p>
